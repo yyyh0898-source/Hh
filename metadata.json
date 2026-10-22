@@ -1,0 +1,7 @@
+{
+  "name": "ဇာတ်ကောင် AI - Emotional Roleplay & Story Chat",
+  "description": "An immersive AI character roleplay and storytelling chat application with realistic emotional dialogue, character studio, voice synthesis, image generation, biometric security, and full Myanmar (Burmese) language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
